@@ -6,8 +6,8 @@ directly from his Alacritty colors).
 
 ## Installation
 
-Download whichever variation you prefer (or, better yet, download them all) and
-open the .itermcolors file(s) in Finder to import into iTerm2.
+Download whichever variation you prefer (or, better yet, download them all) from
+iTerm2/ and open the .itermcolors file(s) in Finder to import into iTerm2.
 
 Select the newly imported colorscheme from Settings -> Profiles -> Colors ->
 Color Presets.
