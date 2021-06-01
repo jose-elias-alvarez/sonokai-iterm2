@@ -33,3 +33,7 @@ Color Presets.
 ### Maia
 
 ![sonokai maia](./screenshots/maia.png)
+
+### Espresso
+
+![sonokai espresso](./screenshots/espresso.png)
